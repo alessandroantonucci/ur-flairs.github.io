@@ -71,7 +71,8 @@ body {
   font-family: "muli-regular", sans-serif;
   font-size: 1.6rem;
   line-height: 1.875;
-  color: #767676;
+  /*color: #767676;*/
+  color: black;
   margin: 0;
   padding: 0;
 }
@@ -2479,7 +2480,8 @@ html[data-useragent*='MSIE 10.0'] .home-scrolldown,
 
 #download {
   background: #39b54a;
-  color: #b2fabc;
+  /*color: #b2fabc;*/
+  color: white;
   padding-top: 12rem;
   padding-bottom: 12rem;
   text-align: center;
